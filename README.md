@@ -33,3 +33,6 @@ This will rename all directories in `/path/to/root/directory` starting from `1` 
 This project created by Yaniv Logi.
 ```
 
+Feel free to customize this README.md file further to include additional information or styling as needed.
+```
+
